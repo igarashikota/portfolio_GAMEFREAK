@@ -1,7 +1,7 @@
 見て頂きありがとうございます。<br>
 五十嵐幸太のポートフォリオです。<br>
 ゲーム作品のソースコードなどは、ソースコードのファイルの中をご覧ください。<br>
-https://github.com/igarashikota/portfolio/tree/main/sourceCode <br>
+https://github.com/igarashikota/portfolio_GAMEFREAK/tree/main/sourceCode <br>
 <br>
 <br>
 本来のpdfはハイパーリンクが挿入されており、作品を動画で視聴することができます。<br>
